@@ -37,7 +37,7 @@ const options = {
 ```Javascript
 const headers = {
     'X-RapidAPI-Host': 'tennis-live-data.p.rapidapi.com',
-    'X-RapidAPI-Key': '63d227f56cp1a4e4cjsnd58dde35db71',
+    'X-RapidAPI-Key': '63d227f56cp1a4e4cjsnd5',
     'Content-Type': 'application/json'
 }
 ```
@@ -62,7 +62,7 @@ const options = {
 }
 const headers = {
     'X-RapidAPI-Host': 'tennis-live-data.p.rapidapi.com',
-    'X-RapidAPI-Key': '63d227f56cp1a4e4cjsnd58dde35db71',
+    'X-RapidAPI-Key': '63d227f56cp1a4e4cjsnd5',
     'Content-Type': 'application/json'
 }
 
