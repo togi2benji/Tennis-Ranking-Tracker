@@ -1,4 +1,4 @@
-# Tennis Ranking Tracker
+# Tennis Ranking Tracker - 24 hour challenge
 
 ## Goal of Project
 
