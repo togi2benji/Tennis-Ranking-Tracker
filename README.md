@@ -1,4 +1,5 @@
 # Tennis Ranking Tracker - 24 hour challenge
+***
 
 ## Goal of Project
 
@@ -12,6 +13,11 @@ The goal of the project is to use RapidAPI to connect with Tennis Live Data to g
 4. Created functions to fetch data from api and display as a list.
 5. Updated UI dynamically with a function.
 
+## Learning
+With this challenge I learned a bit about utilizing promises, fetching data, consuming APIs, and bit more familiarity with Node JS. Although, I am not an expert, I have enjoyed the experience of debugging, googling, and scrubbing through code to get answers/solutions for my concerns. I also got to experience the joy of using template literals. I also came across a really great resource that explains concepts very well. [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn) 
+
+# Program Specifics
+***
 ## Choices between ATP and WTA
 
 Two buttons are provided to the user to click on. Based on their selection one of two functions will be run
