@@ -37,7 +37,7 @@ const options = {
 ```Javascript
 const headers = {
     'X-RapidAPI-Host': 'tennis-live-data.p.rapidapi.com',
-    'X-RapidAPI-Key': '74e4e99ed3mshbde6c63d227f56cp1a4e4cjsnd58dde35db71',
+    'X-RapidAPI-Key': '63d227f56cp1a4e4cjsnd58dde35db71',
     'Content-Type': 'application/json'
 }
 ```
@@ -62,7 +62,7 @@ const options = {
 }
 const headers = {
     'X-RapidAPI-Host': 'tennis-live-data.p.rapidapi.com',
-    'X-RapidAPI-Key': '74e4e99ed3mshbde6c63d227f56cp1a4e4cjsnd58dde35db71',
+    'X-RapidAPI-Key': '63d227f56cp1a4e4cjsnd58dde35db71',
     'Content-Type': 'application/json'
 }
 
@@ -96,3 +96,4 @@ function topRankers(number,data){
     }
 }
  ```
+ *API Key will not work. The code has been modified so that key can't be used. A free subscription with RapidAPI will allow for use of APIs.
